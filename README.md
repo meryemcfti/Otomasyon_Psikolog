@@ -1,6 +1,6 @@
 #Psikolog Danışan ve Randevu Yönetim Sistemi
 
-
+---
 ## Proje Hakkında
 
 Bu proje, Nesne Tabanlı Programlama dersi kapsamında geliştirilmiş bir psikolog danışan ve randevu yönetim sistemidir.
