@@ -1,9 +1,5 @@
 # Psikolog Danışan ve Randevu Yönetim Sistemi
 
-## Öğrenci Bilgileri
-
-**Ad Soyad:** Meryem Çiftçi
-**Okul No:** 2312503065
 
 ---
 
